@@ -4,10 +4,11 @@
 #### MA1522 Linear Algebra
 [MA1522](MA1522.md)
 
-#### CS1231 Discrete Structures
-[CS1231](CS1231.md)
+#### CS1231S Discrete Structures
+[CS1231S](CS1231S.md)
 
-#### CS1101 Programming methodology
+#### CS1101S Programming methodology
+[CS1101S](CS1101S.md)
 
 #### ES2660 Communication in the information age
 
