@@ -14,6 +14,7 @@
 [ES2660](./ES2660.md)
 
 #### GEA1000 Quantitative reasoning with data
+[GEA1000](./GEA1000.md)
 
 #### CFG1002 Career Catalyst
 [CFG1002](./CFG1002.md)
